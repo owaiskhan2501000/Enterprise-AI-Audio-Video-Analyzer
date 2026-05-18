@@ -55,5 +55,4 @@ For optimal transcription accuracy and the best overall results, please ensure t
 ## Developer
 
 **Mohammad Owais**
-
-Computer Science Graduate | AI Researcher | Web & App Developer | 2D Animator
+AI Integration Engineer | RAG & LLM Specialist | Full-Stack Developer (Next.js) | 
