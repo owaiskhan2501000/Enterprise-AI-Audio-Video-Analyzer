@@ -55,4 +55,4 @@ For optimal transcription accuracy and the best overall results, please ensure t
 ## Developer
 
 **Mohammad Owais**
-AI Integration Engineer | RAG & LLM Specialist | Full-Stack Developer (Next.js) | 
+ AI Integration Engineer | RAG & LLM Specialist | Full-Stack Developer (Next.js) | 
