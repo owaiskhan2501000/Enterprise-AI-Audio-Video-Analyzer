@@ -1,1 +1,12 @@
-
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+gradio
+sentence-transformers
+pydub
+gdown
+openai-whisper
